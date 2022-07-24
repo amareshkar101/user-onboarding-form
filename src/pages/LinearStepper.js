@@ -256,6 +256,21 @@ function LinearStepper() {
 
   return (
     <div className="container">
+      {/* <i class="fab fa-typo3" /> */}
+      <Typography
+        variant="h5"
+        component="h2"
+        style={{
+          fontWeight: "bold",
+          marginLeft: "200px",
+          marginTop: "0px",
+          marginBottom: "40px",
+        }}
+      >
+        <i class="fab fa-typo3" />
+        &nbsp;Eden
+      </Typography>
+
       <Stepper activeStep={activeStep}>
         {steps.map((step, index) => {
           return (

@@ -1,11 +1,13 @@
 body {
     background-color: whitesmoke;
     width: 500px;
-    padding-top: 120px;
+    padding-top: 45px;
     padding-left: 400px;
     font-family: 'Inter', sans-serif;
 }
-
+.fa-typo3{
+    color:#664de5;
+}
 .tile-main {
     display: flex;
     flex-wrap: wrap;
