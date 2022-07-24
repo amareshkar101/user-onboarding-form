@@ -208,7 +208,7 @@ function getStepContent(step) {
                   color: "#664de5",
                   width: 25,
                   height: 25,
-                  marginTop: 5,
+                  marginTop: 10,
                   marginLeft: 10,
                 }}
               />
@@ -223,7 +223,7 @@ function getStepContent(step) {
                   color: "#664de5",
                   width: 25,
                   height: 25,
-                  marginTop: 5,
+                  marginTop: 10,
                   marginLeft: 10,
                 }}
               />
